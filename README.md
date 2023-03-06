@@ -1,6 +1,7 @@
 # hzzxsdk
 
 ## 简介
+hzzxsdk 1.0.6 -版本
 hzzxsdk 是用 JS TS 开发编译的API封装
 
 
