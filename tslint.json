@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "tslint:recommended",
+    "tslint-config-prettier"
+  ],
+  "linterOptions": {
+    "exclude": []
+  },
+  "rules": { //针对ts的配置
+    "object-literal-sort-keys": false, //对象按键值排序
+    "no-console": false, //禁止使用console
+  },
+  "jsRules": { //针对js的配置
+    "object-literal-sort-keys": false
+  }
+}

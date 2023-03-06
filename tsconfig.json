@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "declaration": true,
+    "outFile": "lib/hzzxsdk.js",
+    // "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    // "emitDecoratorMetadata": true,
+    "skipLibCheck": true,
+    // "normalTypeScriptOptions": "here",
+  },
+  "include": [
+    "src"
+  ],
+  "typedocOptions": {
+    "entryPoints": [
+      "src/hzzxsdk.ts"
+    ],
+    "out": "doc"
+  }
+}
