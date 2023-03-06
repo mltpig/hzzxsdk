@@ -3,8 +3,8 @@ namespace hzzxsdk.c {
 		public static readonly sdkVersion: string = '1.0.6';
 		public static readonly sdkBuildTimeStamp: string = '2022829173519';
 		public static readonly storagePrefix: string = 'hzzxsdk_';
-		public static readonly server_login: string = 'https://sdk.jinkezhexin.com';
-		public static readonly server_report: string = 'https://sdk.jinkezhexin.com';
+		public static readonly server_login: string = 'https://sdk.tianjinyuren.cn';
+		public static readonly server_report: string = 'https://sdk.tianjinyuren.cn';
 		public static readonly server_res: string = 'https://cdnht.tianjinyuren.cn';
 
 		public static pid: string;
